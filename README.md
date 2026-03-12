@@ -9,7 +9,7 @@ O jogo desafia a memória gerando sequências aleatórias de luzes e sons. A cad
 * **2 LEDs** (Azul e Amarelo)
 * **2 Botões** para a interação do jogador
 * **1 Buzzer** para o feedback sonoro
-* **Resistores** de 220 ohms (para os LEDs) e 10k ohms (para os botões) e bastante jumpers!!!
+* **Resistores** de 220 ohms (para os LEDs), 10k ohms (para os botões) e bastante jumpers!!!
 
 Durante a montagem e programação, apliquei conceitos fundamentais:
 * **Debouncing:** Tratamento via código para evitar que um único aperto no botão seja lido como vários cliques.
