@@ -1,6 +1,6 @@
 # Genius-ESP32
 
-Este projeto é uma versão do clássico jogo "Genius" (ou Simon Says) que desenvolvi usando o microcontrolador ESP32. O foco foi aplicar na prática conceitos de lógica de programação e eletrônica que vemos na faculdade.
+Este projeto é uma versão do clássico jogo "Genius" que desenvolvi usando o microcontrolador ESP32. O foco foi aplicar na prática conceitos de lógica de programação e eletrônica que vemos na faculdade.
 
 O jogo desafia a memória gerando sequências aleatórias de luzes e sons. A cada acerto, o desafio fica maior!
 
